@@ -11,4 +11,6 @@ The training of the model was done with the help of tensorflow keras and the UTK
 
 After the analysis we see similarity in the kernels learned by the CNN
 
+![correlation](Img/modelo1_correlacion32x32.png)
+
 ![1](Img/kernel_17.jpg)![2](Img/kernel_23.jpg)
